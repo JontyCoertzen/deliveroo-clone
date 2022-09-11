@@ -1,6 +1,6 @@
 export default {
-  name: "restuarant",
-  title: "Restuarant",
+  name: "restaurant",
+  title: "Restaurant",
   type: "document",
   fields: [
     {
@@ -18,7 +18,7 @@ export default {
     {
       name: "image",
       type: "image",
-      title: "Image of the restuarant",
+      title: "Image of the restaurant",
     },
     {
       name: "lat",
